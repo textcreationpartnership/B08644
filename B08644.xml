@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Sir Philip Warwick respondant, to the appeal of Sir Oliver Boteler, bar appellant</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08644</idno>
+            <idno type="STC">Wing C997A</idno>
+            <idno type="STC">ESTC R175668</idno>
+            <idno type="EEBO-CITATION">61296898</idno>
+            <idno type="OCLC">ocm 61296898</idno>
+            <idno type="VID">180483</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08644)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180483)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2831:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Sir Philip Warwick respondant, to the appeal of Sir Oliver Boteler, bar appellant</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1694?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Boteler, Oliver, --  Sir --  Trials, litigation ,etc.</term>
+               <term>Warwick, Philip, --  Sir --  Trials, litigation, etc.</term>
+               <term>Executors and administrators --  England --  Early works to 1800.</term>
+               <term>Broadsides --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180483:1" rendition="simple:additions"/>
+            <head>THE CASE OF Sir <hi>Philip Warwick</hi> Reſpondent, To the Appeal of Sir <hi>Oliver Boteler,</hi> Bar<hi rend="sup">t</hi>. Appellant.</head>
+            <p>
+               <seg rend="decorInit">S</seg>IR <hi>William Boteler,</hi> Sir <hi>Oliver</hi>'s late Father, did by his Laſt Will, (about the Year of Our LORD 1644.) bequeath and appoint 600 l. to be raiſed out of his Leaſe of <hi>Sutton,</hi> which he held of his late Majeſty, and, whereof there was then about Ten years to come; (but the Leaſe under Sequeſtration for Two whole years after:) And with the ſaid 600 l. ſo to be raiſed, to pay and ſettle 30 l. <hi>per annum</hi> to and upon Mr. <hi>Bolton</hi> the Vicar of <hi>Sharnbrook,</hi> and his Succeſſors for ever.</p>
+            <p>The ſaid Sir <hi>William</hi> died in the ſaid year 1644. being ſlain in his late Majeſties Service, at <hi>Cropredy</hi>-Bridge, leaving his Eſtate under Sequeſtration to the then Pow<g ref="char:EOLhyphen"/>ers. Beſides, his Eſtate was then indebted 3500 l. At which time Sir <hi>Oliver</hi> the Appellant was an Infant of about 11 years of Age.</p>
+            <p>His Eſtate being thus incumbred, none of the Six Executors named in his Will would intermeddle, beſides his Widdow and Relict the Lady <hi>Boteler.</hi>
+            </p>
+            <p>The ſaid Lady <hi>Bot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ler</hi> his Relict, till about 1667, when ſhe Married the ſaid Sir <hi>Phillip,</hi> And then the ſaid Sir <hi>Philip</hi> and his wife the ſaid Lady did mannage the whole Eſtate for the Benefit of Sir <hi>Oliver,</hi> and appli<g ref="char:EOLhyphen"/>ed the whole Rents and Profits, as well the Rents and Profits of <hi>Sutton</hi> Leaſe, as of the reſt of the Eſtate (Charged with the ſaid Ladies Dower and other Annuities) for the compounding the ſaid Sequeſtration, and paying of the ſaid 3500 l. Debt and Intereſt, and Maintenance for Sir <hi>Oliver;</hi> and for paiment of the ſaid 30l. <hi>per annum,</hi> and other Duties charged upon the Eſtate.</p>
+            <p>Sir <hi>Philip</hi> and his Lady, after a long Solicitation and great Charges, procured the Compoſition of the ſaid Sequeſtration. (Which was ſet at 10400 l. And a 5<hi rend="sup">th</hi> and 20<hi rend="sup">th</hi> parts ſet at 1600 l. amounting in all to 12000 l.) to be reduced to 3000 l. which was raiſed and paid by the ſaid Sir <hi>Philip Warwick</hi> and his Lady: Sir <hi>Oliver</hi> being a Minor, his Eſtate intail'd; and they having no Eſtate of his wherewith to Secure the Re-payment of any Money, ſaving this <hi>Sutton</hi> Leaſe: So that if Sir <hi>Oliver</hi> had died before he at<g ref="char:EOLhyphen"/>tained his Age, much of the Money would have been loſt.</p>
+            <p>That in the Year of our Lord 1654. <hi>Sutton</hi> Leaſe expired, and Sir <hi>Oliver</hi> then attained his full Age: Soon after which Sir <hi>Philip Warwick</hi> and his Lady accounted with Sir <hi>Oliver</hi> for all the Receits out of his fa<g ref="char:EOLhyphen"/>thers ſaid Eſtate, and for all the Payments for the ſaid Sequeſtration, and the ſaid Debts and Charges: And then Sir <hi>Oliver</hi> being well ſatisfyed with the Management and Diſpoſition of the ſaid Eſtate, did give Sir <hi>Philip Warwick</hi> and his Lady a full Diſcharge and Releaſe; reciting in the ſaid Diſcharge, That they had Accompted together concerning All Receipts, Payments and Disburſements whatſoever: And that upon the true ſtating and making up of the ſaid Account, All Matters and Things concerning the ſame were made even and clear'd between them: All which the ſaid Sir <hi>Oliver</hi> did thereby acknowledge and confeſs.</p>
+            <p>And from that time took upon himſelf to pay the ſaid 30 l. <hi>per ann.</hi> to the ſaid Vicar of <hi>Sharnbrook</hi> and accordingly paid it from the ſaid year 1654 to the year 1659. And then he made an abſolute Settlement of part of his Eſtate for the payment of the ſaid Annuity of 30 l. <hi>per annum</hi> to be continued and paid for ever: and accordingly Sir <hi>Oliver</hi> continued the payment thereof to the year 1674. And Sir <hi>Oliver</hi> then failing to pay the ſame</p>
+            <p>Thereupon Mr. <hi>Bolton</hi> the Vicar of <hi>Sharnbrook,</hi> preferr'd an Information in his Majeſties Attorney Gene<g ref="char:EOLhyphen"/>rals name, againſt Sir <hi>Oliver</hi> and Sir <hi>Philip Warwick,</hi> to be paid the Arrears, and the growing 30 <hi>l. per annum;</hi> And the Court of Chancery were clear of Opinion, and decreed Sir <hi>Oliver</hi> and not Sir <hi>Philip Warwick</hi> to pay the ſame.</p>
+            <p>And the Reaſon why Sir <hi>Oliver Boteler</hi> ought to pay the 30 l. <hi>per ann.</hi> is, in regard the Profits of his Fa<g ref="char:EOLhyphen"/>thers Eſtate was accounted to him; And, for that he Releaſed Sir <hi>Philip Warwick</hi> and paid the 30 l. <hi>per annum,</hi> for XX years together.</p>
+            <p>Beſides Sir <hi>Philip Warwick</hi> and his Ladies kindneſs to Sir <hi>Oliver,</hi> ſince the year 1674. are very conſide<g ref="char:EOLhyphen"/>rable, <hi>(viz.)</hi>
+            </p>
+            <list>
+               <item>The Ladies abating him a conſiderable part of her Thirds, for about XX years.</item>
+               <item>The aſſiſting him to obtain a Debt of 1600 l. due to his Father.</item>
+               <item>The giving him an 100 Guinnies.</item>
+               <item>The giving him 400 l. for his Daughter.</item>
+               <item>The giving him a Gold Cup worth 100 l.</item>
+               <item>The giving him a Suit of Hangings worth 100 l.</item>
+               <item>Sir <hi>Philip</hi> lending him ſeveral conſiderable Summs of Money without Intereſt.</item>
+               <item>Their maintaining his Eldeſt Son and his Nurſe from his Birth, till he was 8 years old.</item>
+               <item>The Freedom of their Houſe to Entertain Sir <hi>Oliver</hi> and his Family at all times.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
